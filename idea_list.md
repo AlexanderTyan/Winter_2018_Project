@@ -1,6 +1,6 @@
 
 
-#IDEA LIST
+# IDEA LIST
 
   * Finder for fishing spots
   * Something with the reliefWeb API 
