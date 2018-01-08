@@ -3,6 +3,8 @@ CAPP 30122 project.
 
 Group:
 
-Kevin Sun
+ * Kevin Sun
 
-Tyler Amos
+ * Tyler Amos
+ 
+ * Sasha Tyan
